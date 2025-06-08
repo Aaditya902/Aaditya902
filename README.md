@@ -15,7 +15,7 @@ I'm an AI Engineer with 1+ year of hands-on experience in building intelligent s
 ### 📫 Let's Connect!
 - 📧 [aadityachitode@gmail.com](mailto:aadityachitode@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaditya-chitode/)
-- 
+  
 ---
 
 Thanks for stopping by! ⭐️
