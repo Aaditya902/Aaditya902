@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aaditya!
 
-I'm an AI Engineer with 1+ year of hands-on experience in building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
+I'm an AI Engineer with ~2 years of hands-on experience in building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
 
 ### 🚀 What I Do
 - 💬 Work with LLMs, GenAI, and Retrieval-Augmented Generation (RAG) systems
